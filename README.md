@@ -15,10 +15,11 @@ INTRODUCTION
 
 ## 🚀 About Me
 
-I'm **Aditya Chourasiya**, a curious and motivated **first-year engineering student** deeply interested in the worlds of **Cybersecurity**, **Cloud Computing**, and **MLOps**. I love exploring how machine learning models can be securely built, deployed, and scaled.
+I'm **Aditya Chourasiya**, a curious and motivated **first-year engineering student** deeply interested in the worlds of **Cybersecurity engineer**, and **MLOps engineer**. I love exploring how machine learning models can be securely built, deployed, and scaled.
 
 🔭 Currently learning everything I can about:
 - Building and securing ML pipelines
+- learning how to build security and threat softwares
 - Working with cloud-native technologies
 - Writing clean, production-ready Python & C++ code
 

@@ -64,6 +64,10 @@ I'm **Aditya Chourasiya**, a curious and motivated **first-year engineering stud
   <a href="https://www.instagram.com/adityachourasiya76/?utm_source=qr&igsh=MTMzNzI3MzNraGc1OQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@adityachourasiya76-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="mailto:adityachourasiya67@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-adityachourasiya67@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </p>
 
 ---
